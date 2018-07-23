@@ -1,2 +1,3 @@
-yum install httpd* -y 
-service httd restart
+sudo yum -y install httpd
+sudo service httpd start  
+date 
